@@ -18,7 +18,7 @@ public class a20 {
     }
 
     private static int calculate(String strExpression) {
-
+//123
         return 0;
     }
 
